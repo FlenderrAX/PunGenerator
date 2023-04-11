@@ -22,7 +22,13 @@ https://github.com/FlenderrAX/PunGenerator.git
 pip install pyperclip
 ```
 
-<p>3. Enjoy !</p>
+<p>3. Change the directory in the program exemple :</p>
+
+```
+C:\Desktop\Jeu De Mot\ods6.txt
+```
+
+<p>4. Enjoy !</p>
 
   
   
